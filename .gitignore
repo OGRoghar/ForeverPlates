@@ -1,0 +1,9 @@
+*.zip
+*.log
+*.bak
+WTF/
+Cache/
+Logs/
+Screenshots/
+Thumbs.db
+Desktop.ini
