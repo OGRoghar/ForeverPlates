@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.3
+
+- Published a fresh release to retrigger CurseForge packaging.
+- In-game behaviour is unchanged.
+
 ## 0.3.2
 
 - Configured automatic CurseForge packaging with the correct addon folder name and Markdown changelog.

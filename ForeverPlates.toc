@@ -2,7 +2,7 @@
 ## Title: ForeverPlates
 ## Notes: Simple standalone nameplate styling for World of Warcraft: Forever.
 ## Author: Roghar
-## Version: 0.3.2
+## Version: 0.3.3
 ## SavedVariables: ForeverPlatesDB
 
 Core.lua
