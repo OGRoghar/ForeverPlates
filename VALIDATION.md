@@ -1,5 +1,7 @@
 # Validation - ForeverPlates 0.3.1
 
+Version 0.3.2 adds packaging configuration and updates the version identifier; in-game behaviour is unchanged. CurseForge packaging excludes this document and README.md.
+
 Checked on 2026-10-06. This version retains the established nameplate layout; layout, health text ownership, fonts, masks, and health bar color logic are retained.
 
 ## Evidence

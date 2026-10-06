@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.2
+
+- Configured automatic CurseForge packaging with the correct addon folder name and Markdown changelog.
+- Excluded repository documentation and Git configuration from packaged downloads.
+- In-game behaviour is unchanged.
+
 ## 0.3.1
 
 - Added green names for PvP-flagged players, independent of health bar class colors.

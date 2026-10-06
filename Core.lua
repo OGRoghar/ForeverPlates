@@ -1,7 +1,7 @@
 local _, addon = ...
 
 -- Private addon configuration and shared helpers.
-addon.version = "0.3.1"
+addon.version = "0.3.2"
 addon.config = { classColors = false, nameSize = 11, healthSize = 9, style = "compact" }
 addon.frames = setmetatable({}, { __mode = "k" })
 

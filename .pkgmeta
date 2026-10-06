@@ -1,0 +1,11 @@
+package-as: ForeverPlates
+
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - VALIDATION.md
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
